@@ -1,0 +1,4 @@
+db-class: org.postgresql.Driver
+db-url: jdbc:postgresql://localhost:30100/postgres?currentSchema=public
+db-user: root
+db-pass: root
