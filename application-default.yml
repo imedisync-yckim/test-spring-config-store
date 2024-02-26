@@ -2,4 +2,4 @@ db-class: org.postgresql.Driver
 db-url: jdbc:postgresql://localhost:30101/postgres?currentSchema=public
 db-user: root
 db-pass: root
-management.endpoints.web.base-path: /actuator
+
