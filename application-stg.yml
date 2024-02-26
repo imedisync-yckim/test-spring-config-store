@@ -3,3 +3,4 @@ management:
     web:
       base-path: /mngt2
 my-item: stgitem
+set-env: stgenv
