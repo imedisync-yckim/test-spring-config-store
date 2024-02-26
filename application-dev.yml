@@ -3,3 +3,4 @@ management:
     web:
       base-path: /mngt
 my-item: devitem
+set-env: devenv
