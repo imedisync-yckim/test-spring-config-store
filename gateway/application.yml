@@ -1,3 +1,7 @@
-
-ITEM_NAME: app-def
-ITEM_ICON: app-def
+eureka:
+  server:
+    username: eureka
+    password: eureka
+  client:
+    service-url:
+      defaultZone: http://localhost:8090/eureka/
