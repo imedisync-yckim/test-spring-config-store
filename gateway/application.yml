@@ -5,3 +5,8 @@ eureka:
   client:
     service-url:
       defaultZone: http://${eureka.server.username}:${eureka.server.password}@localhost:8090/eureka/
+
+spring:
+  security:
+    jwt:
+      secret: asdf1234
