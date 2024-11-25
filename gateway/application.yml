@@ -10,3 +10,7 @@ spring:
   security:
     jwt:
       secret: asdf1234
+
+  rabbitmq:
+    username: root
+    password: root
