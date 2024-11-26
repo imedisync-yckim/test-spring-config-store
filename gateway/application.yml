@@ -9,11 +9,9 @@ eureka:
 spring:
   security:
     jwt:
-      secret: asdf1234
+      secret: asdf1234!
 
   rabbitmq:
     username: root
     password: root
     virtual-host: /spring-config
-
-wtf: true
