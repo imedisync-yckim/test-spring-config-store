@@ -1,3 +1,9 @@
 item:
   name: eeg
   price: 500
+
+item-json: |-
+  {
+    "name": "eeg",
+    "price": 500
+  }
