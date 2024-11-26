@@ -1,9 +1,9 @@
 item:
   name: eeg
-  price: 100
+  price: 140
 
 item-json: |-
   {
     "name": "eeg",
-    "price": 100
+    "price": 140
   }
