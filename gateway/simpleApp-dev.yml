@@ -1,0 +1,9 @@
+item:
+  name: eegdev
+  price: 150
+
+item-json: >-
+  {
+    "name": "eeg",
+    "price": 150
+  }
